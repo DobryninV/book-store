@@ -1,0 +1,28 @@
+.book-card {
+  display: flex;
+  flex-wrap: inherit;
+}
+
+.book-image {
+  width: 20%;
+  margin: 1rem;
+  border-radius: 5px;
+}
+
+.book-description {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.book-description p {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.book-description button {
+  margin-top: 10px;
+  flex: 0 0 auto;
+}

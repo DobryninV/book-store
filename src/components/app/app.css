@@ -1,0 +1,22 @@
+html {
+  height: 100%;
+}
+body {
+  min-height: 100%;
+  padding: 0;
+  margin: 0;
+  background-color: rgb(199, 199, 199);
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: black;
+}
+
+p {
+  margin: 0;
+}

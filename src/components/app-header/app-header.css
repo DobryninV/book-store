@@ -1,0 +1,21 @@
+
+.app-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  border-bottom: 1px solid black;
+}
+
+.app-header .logo {
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 2.5rem;
+}
+
+.app-header .basket {
+  display: flex;
+  align-items: center;
+}
+
+.app-header .basket i {
+  margin-right: 0.5rem;
+}

@@ -1,0 +1,16 @@
+.shopping-cart-table {
+  text-align: center;
+}
+
+.shopping-cart-table .total {
+  text-align: right;
+}
+
+.shopping-cart-table tbody {
+  vertical-align: unset;
+  border-color: unset;
+}
+.shopping-cart-table button {
+  margin-top: 5px;
+  margin-left: 5px;
+}
